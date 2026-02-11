@@ -1,0 +1,38 @@
+RespondentID,Pathway,StudyHours_Daily_Normal,StudyHours_Weekly_Normal,StressLevel,StressReason,Flag_VeryHighDaily
+1,Poly,10.0,70.0,,Why did you choose that stress level?,True
+2,Poly,1.0,7.0,6.0,because i have some stress about assingments here and there but its not anything i cannot manage,False
+3,JC,4.0,28.0,10.0,Nanyang is very stressful and high workload,False
+4,Poly,2.0,14.0,10.0,Because we bad at math so very stress and got other modules to do,False
+5,Poly,9.0,63.0,7.0,There is too many modules to catch up,True
+6,Poly,2.0,14.0,7.0,work load,False
+7,JC,4.0,28.0,8.0,High workload ,False
+8,JC,0.0,0.0,10.0,Because Netanyahu didn't give me a call yet,False
+9,Poly,1.0,7.0,3.0,Nil,False
+10,Poly,3.0,21.0,6.0,school commitments besides studies,False
+11,Poly,4.0,28.0,7.0,alot of tests and presentations,False
+12,Poly,2.0,14.0,6.0,Assignments are due soon ,False
+13,Poly,4.0,28.0,10.0,"Give me my money, balance both study and part time job",False
+14,JC,5.0,35.0,3.0,Because my subjects are essentially just math math math and physics ,False
+15,Poly,3.0,21.0,9.0,"it's mainly because of the heavy workload and tight deadlines in poly. juggling multiple projects and tests at the same time can be overwhelming, especially when several deadlines clash. there’s also pressure to maintain a good GPA while participating in CCAs or part-time work.",False
+16,Poly,4.0,28.0,5.0,it depends on the assignment and workload,False
+17,JC,5.0,35.0,8.0,"Short runway (2 years) and a lot of CCA things to do like open house, NSG and need to do volunteer as well for portfolio",False
+18,Poly,1.0,7.0,7.0,Exam every week,False
+19,Poly,2.0,14.0,5.0,It’s manageable ,False
+20,Poly,2.0,14.0,9.0,hard to understand classes and a lot of assignments ,False
+21,Poly,3.0,21.0,10.0,exam,False
+22,Poly,4.0,28.0,8.0,"studying bio not easy bro  
+also queue r6/mr/ow holidays 11feb onwards",False
+23,Poly,3.0,21.0,8.0,Its project rush period for the next 4 weeks and it is super stressful even though i started early,False
+24,Poly,2.0,14.0,7.0,There's a lot of work on top of cca,False
+25,JC,2.0,14.0,8.0,There's a lot that needs to be done outside of school,False
+26,JC,1.0,7.0,3.0,"I can cope well in school, can't rlly say much about me not revising much,",False
+27,JC,3.0,21.0,6.0,"it's still the start of the year, so the there's only a few timed practices/ tests coming up, homework is still manageable, and a levels still a few months away, no need to worry abt mugging (YET), so there's still stress of keeping up with the workload but it's not too serious at the moment🙂‍↕️",False
+28,JC,4.0,28.0,6.0,I’m relatively ahead but there is still a lot of work to do and also I love u so much daniel my sweet princess ,False
+29,Poly,4.0,28.0,1.0,Cus Daniel cuddles me everyday after school ,False
+30,JC,2.0,14.0,6.0,i’m not crazy stressed but there’s a lot of hw,False
+31,JC,5.0,35.0,7.0,"because the bridge rejected me and its not looking too good fam
+",False
+32,Poly,3.0,21.0,10.0,Many exams and group projects due so quite stressed,False
+33,Poly,3.0,21.0,6.0,exams are spread out,False
+34,JC,3.0,21.0,7.0,JC is hard,False
+35,JC,3.0,21.0,8.0,because i my time management is bad and there is too much assignments,False

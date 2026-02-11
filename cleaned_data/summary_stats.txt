@@ -1,0 +1,11 @@
+=== Row counts ===
+Raw rows: 35
+Analysis-ready rows (JC/Poly + valid daily normal): 31
+Poly n: 20
+JC n: 11
+
+=== Descriptive stats (weekly normal) ===
+Poly weekly mean: 23.1
+Poly weekly sd  : 16.54944743870066
+JC weekly mean  : 22.272727272727273
+JC weekly sd    : 12.050650680282033

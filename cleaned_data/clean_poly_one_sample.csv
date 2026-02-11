@@ -1,0 +1,22 @@
+RespondentID,Pathway,StudyHours_Daily_Normal,StudyHours_Weekly_Normal,StudyHours_Daily_Exam,StressLevel,StressReason_Raw,Flag_MissingPathway,Flag_MissingDaily,Flag_OutlierDaily,Flag_VeryHighDaily
+1,Poly,10.0,70.0,,,Why did you choose that stress level?,False,False,False,True
+2,Poly,1.0,7.0,,6.0,because i have some stress about assingments here and there but its not anything i cannot manage,False,False,False,False
+4,Poly,2.0,14.0,,10.0,Because we bad at math so very stress and got other modules to do,False,False,False,False
+5,Poly,9.0,63.0,,7.0,There is too many modules to catch up,False,False,False,True
+6,Poly,2.0,14.0,,7.0,work load,False,False,False,False
+9,Poly,1.0,7.0,,3.0,Nil,False,False,False,False
+10,Poly,3.0,21.0,,6.0,school commitments besides studies,False,False,False,False
+11,Poly,4.0,28.0,,7.0,alot of tests and presentations,False,False,False,False
+12,Poly,2.0,14.0,,6.0,Assignments are due soon ,False,False,False,False
+13,Poly,4.0,28.0,,10.0,"Give me my money, balance both study and part time job",False,False,False,False
+15,Poly,3.0,21.0,,9.0,"it's mainly because of the heavy workload and tight deadlines in poly. juggling multiple projects and tests at the same time can be overwhelming, especially when several deadlines clash. there’s also pressure to maintain a good GPA while participating in CCAs or part-time work.",False,False,False,False
+16,Poly,4.0,28.0,,5.0,it depends on the assignment and workload,False,False,False,False
+18,Poly,1.0,7.0,,7.0,Exam every week,False,False,False,False
+19,Poly,2.0,14.0,,5.0,It’s manageable ,False,False,False,False
+20,Poly,2.0,14.0,,9.0,hard to understand classes and a lot of assignments ,False,False,False,False
+21,Poly,3.0,21.0,,10.0,exam,False,False,False,False
+22,Poly,4.0,28.0,,8.0,"studying bio not easy bro  
+also queue r6/mr/ow holidays 11feb onwards",False,False,False,False
+23,Poly,3.0,21.0,,8.0,Its project rush period for the next 4 weeks and it is super stressful even though i started early,False,False,False,False
+24,Poly,2.0,14.0,,7.0,There's a lot of work on top of cca,False,False,False,False
+29,Poly,4.0,28.0,,1.0,Cus Daniel cuddles me everyday after school ,False,False,False,False
